@@ -1,0 +1,15 @@
+{
+  "name": "hashtag-gen-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot that generates hashtags from text input",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.66.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
