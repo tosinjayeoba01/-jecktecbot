@@ -1,5 +1,5 @@
 {
-  "name": "hashtag-gen-bot",
+  "name": "-jecktec-bot",
   "version": "1.0.0",
   "description": "Telegram bot that generates hashtags from text input",
   "main": "index.js",
